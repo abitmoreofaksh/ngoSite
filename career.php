@@ -14,10 +14,16 @@
     <link rel="stylesheet" href="assets/plugins/slider/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/plugins/slider/css/owl.theme.default.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/svg-with-js.min.css" integrity="sha512-W3ZfgmZ5g1rCPFiCbOb+tn7g7sQWOQCB1AkDqrBG1Yp3iDjY9KYFh/k1AWxrt85LX5BRazEAuv+5DV2YZwghag==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="career.css">
+   
 </head>
 
 <body>
-
+    
 <header class="continer-fluid ">
     <div  class="header-top">
         <div class="container">
@@ -104,89 +110,93 @@
         </div>
     </div> 
 </header>
- 
-  <!--  ************************* Page Title Starts Here ************************** -->
+
+ <!--  ************************* Page  Starts Here ************************** -->
         
-    <div class="page-nav no-margin row">
+ <div class="page-nav no-margin row">
         <div class="container">
             <div class="row">
-                <h2>Contact Us</h2>
-                <ul>
-                    <li> <a href="#"><i class="fas fa-home"></i> Home</a></li>
-                    <li><i class="fas fa-angle-double-right"></i> Contact US</li>
-                </ul>
+                <h2>CAREER WITH US</h2>
             </div>
         </div>
     </div>
-    
-    
-   
-  <!--  ************************* Contact Us Starts Here ************************** -->
+</div>
 
+  <!--  ************************* Center Frame Starts Here ******************** -->
 
-    <div style="margin-top:0px;" class="row no-margin">
+<section class="team-section py-5">
+    <div class="container">
+	    <div class="row justify-content-center">
 
-        <iframe style="width:100%" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249759.19784092825!2d79.10145254589841!3d12.009924873581818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1448883859107"  height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-    </div>
-
-    <div class="row contact-rooo no-margin">
-        <div class="container">
-            <div class="row">
-
-
-                <div style="padding:20px" class="col-sm-7">
-                    <h2 >Contact Form</h2> <br>
-                    <div class="row cont-row">
-                        <div  class="col-sm-3"><label>Enter Name </label><span>:</span></div>
-                        <div class="col-sm-8"><input type="text" placeholder="Enter Name" name="name" class="form-control input-sm"  ></div>
-                    </div>
-                    <div  class="row cont-row">
-                        <div  class="col-sm-3"><label>Email Address </label><span>:</span></div>
-                        <div class="col-sm-8"><input type="text" name="name" placeholder="Enter Email Address" class="form-control input-sm"  ></div>
-                    </div>
-                    <div  class="row cont-row">
-                        <div  class="col-sm-3"><label>Mobile Number</label><span>:</span></div>
-                        <div class="col-sm-8"><input type="text" name="name" placeholder="Enter Mobile Number" class="form-control input-sm"  ></div>
-                    </div>
-                    <div  class="row cont-row">
-                        <div  class="col-sm-3"><label>Enter Message</label><span>:</span></div>
-                        <div class="col-sm-8">
-                            <textarea rows="5" placeholder="Enter Your Message" class="form-control input-sm"></textarea>
+		    <div class="col-12 col-md-6">
+			    <div class="card border-0 shadow-lg  my-5 position-relative">
+				    <div>
+                    <a href="career_job.php" class="card bg-img box-hover cover-background border-0 p-4 h-100" style="background-image: url(https://thumbs.dreamstime.com/b/job-opportunity-24549521.jpg);">
+                        <div class="mt-auto position-relative z-index-9">
+                            <h5 class="text-white">Job Openings</h5>
                         </div>
-                    </div>
-                    <div style="margin-top:10px;" class="row">
-                        <div style="padding-top:10px;" class="col-sm-3"><label></label></div>
-                        <div class="col-sm-8">
-                            <button class="btn btn-primary btn-sm">Send Message</button>
+                    </a>
+				    </div><!--//card-body-->
+			    </div><!--//card-->
+		    </div><!--//col-->
+		    
+		    <div class="col-12 col-md-6">
+			    <div class="card border-0 shadow-lg my-5 position-relative">
+				    <div>
+                    <a href="career_intpro.php" class="card bg-img box-hover cover-background border-0 p-4 h-100" style="background-image: url(https://greatpeopleinside.com/wp-content/uploads/2018/04/internship-845x321.jpg);">
+                        <div class="mt-auto position-relative z-index-9">
+                            <h5 class="text-white">Internship Programme</h5>
                         </div>
-                    </div>
-                </div>
-                <div class="col-sm-5">
+                    </a>
+				    </div><!--//card-body-->
+			    </div><!--//card-->
+		    </div><!--//col-->
 
-                    <div style="margin:50px" class="serv">
-                        <h2 style="margin-top:10px;">Address</h2>
+		    <div class="col-12 col-md-6 col-lg-4">
+                <div class="card border-0 shadow-lg my-5 position-relative">
+                        <div>
+                        <a href="career_intern.php" class="card bg-img box-hover cover-background border-0 p-4 h-100" style="background-image: url(https://wishesandblessings.net/blog/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-13-at-4.26.29-PM-4-1.jpeg);">
+                            <div class="mt-auto position-relative z-index-9">
+                                <h5 class="text-white">Intern With Us</h5>
+                            </div>
+                        </a>
+                        </div><!--//card-body-->
+                    </div><!--//card-->
+		    </div><!--//col-->
 
-                       Antonya Street, <br>
-                        23/H-2, Building<br>
-                        TA, AUS District<br>
-                        Phone:+91 9159669599<br>
-                        Email:support@smarteyeapps.com<br>
-                        Website:www.smarteyeapps.com.com<br>
+		    <div class="col-12 col-md-6 col-lg-4">
+                <div class="card border-0 shadow-lg my-5 position-relative">
+                        <div>
+                        <a href="career_join.php" class="card bg-img box-hover cover-background border-0 p-4 h-100" style="background-image: url(https://www.ayukadevelopers.com/images/join.png);">
+                            <div class="mt-auto position-relative z-index-9">
+                                <h5 class="text-white">Join Us</h5>
+                            </div>
+                        </a>
+                        </div><!--//card-body-->
+                    </div><!--//card-->
+		    </div><!--//col-->
 
-                    </div>
-                </div>
-            </div>
-        </div>
+		    <div class="col-12 col-md-6 col-lg-4">
+                <div class="card border-0 shadow-lg my-5 position-relative">
+                        <div>
+                        <a href="contact_us.php" class="card bg-img box-hover cover-background border-0 p-4 h-100" style="background-image: url(https://st2.depositphotos.com/3591429/5247/i/450/depositphotos_52470369-stock-illustration-people-holding-words-contact-us.jpg);">
+                            <div class="mt-auto position-relative z-index-9">
+                                <h5 class="text-white">Contact Us</h5>
+                            </div>
+                        </a>
+                        </div><!--//card-body-->
+                    </div><!--//card-->
+		    </div><!--//col-->
 
+	    </div><!--//row-->
+	    
     </div>
-       
-
     
+</section>
+
   <!--  ************************* Footer Starts Here ************************** -->
           
-      <footer class="footer">
+  <footer class="footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12">
@@ -257,6 +267,10 @@
         </div>
           
     
+
+
+
+
 </body>
 
 <script src="assets/js/jquery-3.2.1.min.js"></script>

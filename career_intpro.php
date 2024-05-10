@@ -14,10 +14,15 @@
     <link rel="stylesheet" href="assets/plugins/slider/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/plugins/slider/css/owl.theme.default.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link rel="stylesheet" href="career_intpro.css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 
 <body>
-
+    
 <header class="continer-fluid ">
     <div  class="header-top">
         <div class="container">
@@ -104,89 +109,123 @@
         </div>
     </div> 
 </header>
- 
-  <!--  ************************* Page Title Starts Here ************************** -->
+
+ <!--  ************************* Page Title Starts Here ************************** -->
         
-    <div class="page-nav no-margin row">
+<div class="page-nav no-margin row">
         <div class="container">
-            <div class="row">
-                <h2>Contact Us</h2>
-                <ul>
-                    <li> <a href="#"><i class="fas fa-home"></i> Home</a></li>
-                    <li><i class="fas fa-angle-double-right"></i> Contact US</li>
-                </ul>
+            <div class="row ">
+                <h2>JOIN THE INTERNSHIP PROGRAMME</h2>
+
             </div>
         </div>
-    </div>
-    
-    
-   
-  <!--  ************************* Contact Us Starts Here ************************** -->
+</div>
 
 
-    <div style="margin-top:0px;" class="row no-margin">
-
-        <iframe style="width:100%" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249759.19784092825!2d79.10145254589841!3d12.009924873581818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1448883859107"  height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-    </div>
-
-    <div class="row contact-rooo no-margin">
-        <div class="container">
-            <div class="row">
-
-
-                <div style="padding:20px" class="col-sm-7">
-                    <h2 >Contact Form</h2> <br>
-                    <div class="row cont-row">
-                        <div  class="col-sm-3"><label>Enter Name </label><span>:</span></div>
-                        <div class="col-sm-8"><input type="text" placeholder="Enter Name" name="name" class="form-control input-sm"  ></div>
+<!-- Content section 1-->
+<section id="scroll">
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5"><img class="img-fluid " src="https://cdn.downtoearth.org.in/library/large/2022-02-25/0.25794500_1645773147_istock-870402320.jpg" alt="..." /></div>
                     </div>
-                    <div  class="row cont-row">
-                        <div  class="col-sm-3"><label>Email Address </label><span>:</span></div>
-                        <div class="col-sm-8"><input type="text" name="name" placeholder="Enter Email Address" class="form-control input-sm"  ></div>
-                    </div>
-                    <div  class="row cont-row">
-                        <div  class="col-sm-3"><label>Mobile Number</label><span>:</span></div>
-                        <div class="col-sm-8"><input type="text" name="name" placeholder="Enter Mobile Number" class="form-control input-sm"  ></div>
-                    </div>
-                    <div  class="row cont-row">
-                        <div  class="col-sm-3"><label>Enter Message</label><span>:</span></div>
-                        <div class="col-sm-8">
-                            <textarea rows="5" placeholder="Enter Your Message" class="form-control input-sm"></textarea>
-                        </div>
-                    </div>
-                    <div style="margin-top:10px;" class="row">
-                        <div style="padding-top:10px;" class="col-sm-3"><label></label></div>
-                        <div class="col-sm-8">
-                            <button class="btn btn-primary btn-sm">Send Message</button>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4">Why Hamari Pahchan?</h2>
+                            <p>With over 8 years of commitment to uplifting the underprivileged, Hamari Pahchan bridges the gap between education, corporates, and NGOs. Join us in fostering a tradition of value and culture as you prepare for your global endeavours.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-5">
+            </div>
+        </section>
+        <!-- Content section 2-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="p-5"><img class="img-fluid " src="https://bsmedia.business-standard.com/_media/bs/img/article/2019-12/21/full/1576939756-6631.jpg?im=FeatureCrop,size=(826,465)" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <h2 class="display-4">Program Overview:</h2>
+                            <p>- Duration: 4 weeks<br><br>
 
-                    <div style="margin:50px" class="serv">
-                        <h2 style="margin-top:10px;">Address</h2>
+                    - Start Date: December 15, 2023<br><br>
 
-                       Antonya Street, <br>
-                        23/H-2, Building<br>
-                        TA, AUS District<br>
-                        Phone:+91 9159669599<br>
-                        Email:support@smarteyeapps.com<br>
-                        Website:www.smarteyeapps.com.com<br>
+                    - Methodology: Hybrid module with in-person classes at Mahipalpur and online project work<br><br>
 
+                    - Mentorship: Learn under the guidance of the experienced Hamari Pahchan Team<br><br>
+
+                    - Evaluation: Periodic assessments to track your progress<br></p>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-
-    </div>
-       
-
-    
+        </section>
+        <!-- Content section 3-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5"><img class="img-fluid " src="https://imgmedia.lbb.in/media/2019/02/5c5401a4adb03d7bec59ddaa_1549009316213.jpg" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4">What Sets Us Apart?</h2>
+                                <p>
+                                    1. Real-world Projects: Engage in short-term projects focusing on education and social causes, making a tangible impact.<br><br>
+                                    2. Limited Batch Size: Secure your spot with a first-come, first-serve basis ensuring personalised attention.<br><br>
+                                    3. Global Exposure: Gain insights into teamwork, social media strategies, and organisational dynamics.<br><br>
+                                    4. LOR Advantage: Receive a Letter of Recommendation, a valuable asset recognized by institutes worldwide.
+                                </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 4-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="p-5"><img class="img-fluid " src="https://bsmedia.business-standard.com/_media/bs/img/article/2019-12/21/full/1576939756-6631.jpg?im=FeatureCrop,size=(826,465)" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <h2 class="display-4">Important Details:</h2>
+                            <p>
+                            - Dates: Three batches starting from December 15, 2023, January 15, 2024, and February 15, 2024.<br><br>
+                            - Reporting Time: 10:00 AM on December 15, 2023, for formalities, orientation, and classroom sessions.<br><br>
+                            - Fees: Rs. 8000/- (No profit No loss principle) covering administrative expenses and learning material<br><br>
+                            - Eligibility: Graduates or current undergraduates aspiring to study/work abroad.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 5-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5"><img class="img-fluid " src="https://imgmedia.lbb.in/media/2019/02/5c5401a4adb03d7bec59ddaa_1549009316213.jpg" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4">How to Apply:</h2>
+                            <p>
+                                Express your interest by emailing your details to at info@hamaripahchan.org 
+                                Seize this opportunity to enhance your profile, contribute to society, and set the stage for your international dreams. 
+                                Join Hamari Pahchan and be the change you wish to see in the world!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
   <!--  ************************* Footer Starts Here ************************** -->
           
-      <footer class="footer">
+  <footer class="footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12">
@@ -257,6 +296,10 @@
         </div>
           
     
+
+
+
+
 </body>
 
 <script src="assets/js/jquery-3.2.1.min.js"></script>
