@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Free NGO Resonsive Website Tempalte | Smarteyeapps.com</title>
+    <title>Hamari Pahchan</title>
     <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="assets/images/fav.jpg">
@@ -77,11 +77,11 @@
 
                         <ul class="navbad">
                             <li class="nav-item active">
-                                <a class="nav-link" href="index.html">Home
+                                <a class="nav-link" href="index.php">Home
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="about_us.html">About Us</a>
+                                <a class="nav-link" href="about_us.php">About Us</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="services.html">Services</a>

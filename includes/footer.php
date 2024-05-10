@@ -62,8 +62,7 @@
 </footer>
 <div class="copy">
     <div class="container">
-        <a href="https://www.smarteyeapps.com/">2015 &copy; All Rights Reserved | Designed and Developed by
-            Smarteyeapps</a>
+        <a href="#">2015 &copy; All Rights Reserved </a>
 
         <span>
             <a><i class="fab fa-github"></i></a>

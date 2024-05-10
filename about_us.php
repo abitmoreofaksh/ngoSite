@@ -1,291 +1,200 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Free Tour Package Website Tempalte | Smarteyeapps.com</title>
-    <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
-   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="assets/images/fav.jpg">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/plugins/slider/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/plugins/slider/css/owl.theme.default.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-</head>
-
-<body>
-
-<header class="continer-fluid ">
-    <div  class="header-top">
-        <div class="container">
-            <div class="row col-det">
-                <div class="col-lg-6 d-none d-lg-block">
-                    <ul class="ulleft">
-                        <li>
-                            <i class="far fa-envelope"></i>
-                            sales@smarteyeapps.com
-                            <span>|</span></li>
-                        <li>
-                            <i class="fas fa-phone-volume"></i>
-                            +876 987 666 5433</li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-6 folouws">
-                  
-                    <ul class="ulright">
-                       <li> <small>Folow Us </small>:</li>
-                        <li>
-                            <i class="fab fa-facebook-square"></i>
-                        </li>
-                        <li>
-                            <i class="fab fa-twitter-square"></i>
-                        </li>
-                        <li>
-                            <i class="fab fa-instagram"></i>
-                        </li>
-                        <li>
-                            <i class="fab fa-linkedin"></i>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 d-none d-md-block col-md-6 btn-bhed">
-                    <button class="btn btn-sm btn-success">Join Us</button>
-                    <button class="btn btn-sm btn-default">Donate</button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="menu-jk" class="header-bottom">
-        <div class="container">
-            <div class="row nav-row">
-                <div class="col-lg-3 col-md-12 logo">
-                    <a href="index.html">
-                        <img src="assets/images/logo.jpg" alt="">
-                        <a data-toggle="collapse" data-target="#menu" href="#menu"><i class="fas d-block d-lg-none  small-menu fa-bars"></i></a>
-                    </a>
-
-                </div>
-                <div id="menu" class="col-lg-9 col-md-12 d-none d-lg-block nav-col">
-
-                            <ul class="navbad">
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="index.html">Home
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="about_us.html">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="services.html">Services</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="gallery.html">Gallery</a>
-                                </li>
-
-                                <li class="nav-item">
-                                    <a class="nav-link" href="blog.html">Blog</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact_us.html">Contact US</a>
-                                </li>
-
-
-
-
-                            </ul>
-
-
-                </div>
-            </div>
-        </div>
-    </div> 
-</header>
+<?php include "includes/header.php"; ?>
  
-  <!--  ************************* Page Title Starts Here ************************** -->
-        
-    <div class="page-nav no-margin row">
-        <div class="container">
-            <div class="row">
-                <h2>About Our Charity</h2>
-                <ul>
-                    <li> <a href="#"><i class="fas fa-home"></i> Home</a></li>
-                    <li><i class="fas fa-angle-double-right"></i> About Us</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    
-    
-     <!--  ************************* About Us Starts Here ************************** -->    
-       
-<div class="about-us container-fluid">
-    <div class="container">
 
-        <div class="row natur-row no-margin w-100">
-            <div class="text-part col-md-6">
-                <h2>About Our Charity</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis varius faucibus
-                    ligula non congue. Suspendisse at pretium massa, sit amet
-                    vulputate nibh. Nam posuere eros dolor. Donec vel arcu sagittis, pretium nisl </p>
-                <p> Cras faucibus laoreet nibh, sit amet tincidunt leo mollis in. Etiam eu mauris metus.
-                    Nulla facilisi. Etiam vestibulum,
-                    nisi et convallis elementum, leo orci aliquam metus, id posuere massa neque vitae
-                    arcu.</p>
 
-                <p>Integer vulputate vehicula dolor a eleifend. Duis aliquam condimentum sapien,
-                    eget tempor justo. Aenean porttitor nibh metus, sollicitudin egestas metus posuere et
-                    . Fusce egestas volutpat metus, in sodales sem bibendum porta. Nunc hendrerit nunc sit
-                    amet tellus posuere, at malesuada sem gravida. Integer maximus ultricies augue, at
-                    dapibus elit bibendum consequat. Cras faucibus tellus eleifend, fermentum purus in,
-                    dapibus sapien. Praesent nec ornare risus. Etiam iaculis, ligula vel gravida
-                    vestibulum, urna justo posuere ante,
-                    id pretium massa arcu sed mi. Nunc a sollicitudin sem. Duis tempus </p>
-            </div>
-            <div class="image-part col-md-6">
-                <div class="about-quick-box row">
-                    <div class="col-md-6">
-                        <div class="about-qcard">
-                           <i class="fas fa-user"></i>
-                            <p>Becom a Volunteer</p>
-                        </div>
-                    </div>
-                     <div class="col-md-6">
-                        <div class="about-qcard ">
-                           <i class="fas fa-search-dollar red"></i>
-                            <p>Quick Fundrais</p>
-                        </div>
-                    </div>
-                     <div class="col-md-6">
-                        <div class="about-qcard ">
-                           <i class="fas fa-donate yell"></i>
-                            <p>Giv Donation</p>
-                        </div>
-                    </div>
-                     <div class="col-md-6">
-                        <div class="about-qcard ">
-                           <i class="fas fa-hands-helping blu"></i>
-                            <p>Help Someone</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>     
-   
-   
-    
- <!-- ################# Mission Vision Start Here #######################--->
-  
-  <section class="container-fluid mission-vision">
-      <div class="container">
-          <div class="row mission">
-              <div class="col-md-6 mv-det">
-                  <h1>Our Mission</h1>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer neque libero, pulvinar et elementum quis, facilisis eu ante. Mauris non placerat sapien. Pellentesque tempor arcu non odio scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam varius eros consequat auctor gravida. Fusce tristique lacus at urna sollicitudin pulvinar. Suspendisse hendrerit ultrices mauris.</p>
-              </div>
-              <div class="col-md-6 mv-img">
-                  <img src="assets/images/misin.jpg" alt="">
-              </div>
+
+
+
+<section id="our-story-wrapper" class="our-story-wrapper">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 img-wrapper" style="padding-right: 30px;" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/images/our-story.png" weight="470" height="600" class="img-fluid our-story-img" alt="">
           </div>
-          <div class="row vision">
-              <div class="col-md-6 mv-img">
-                   <img src="assets/images/vision.jpg" alt="">
-              </div>
-              <div class="col-md-6 mv-det">
-                   <h1>Our Vision</h1>
-                   <p>Ut ultricies lacus a rutrum mollis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed porta dolor quis felis pulvinar dignissim. Etiam nisl ligula, ullamcorper non metus vitae, maximus efficitur mi. Vivamus ut ex ullamcorper, scelerisque lacus nec, commodo dui. Proin massa urna, volutpat vel augue eget, iaculis tristique dui.</p>
-              </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 our-story" data-aos="fade-right" data-aos-delay="100">
+            <h2 class="mb-2 our-story-heading">Our Story</h2>
+            <h5 class="mb-3 our-story-sec-heading">How It All Began</h5>
+            <p class="our-story-text">
+            “Don’t go out in the dark, it’s not safe,” said Tarun Mathur to his daughter Meharr Mathur after the Nirbhaya incident had jolted the entire nation. 
+            </p>
+            <p class="our-story-text">
+            At that moment Meharr said something which would stir difficult feelings for Mr. Mathur, she said, “Don’t stop me, make Delhi safe!”</p>
+            <p class="our-story-text">Hence, established in the aftermath of the horrendous Nirbhaya incident in the year 2015, its founder Mr. Tarun Mathur shaped the organization in order to make Delhi a safer place to live and thrive in.</p>
+            <p class="our-story-text">Since the past seven years, Hamari Pahchan, as a non-profit organization, has devoted itself to the people in need. With multiple initiatives spanning over a variety of causes </p>
+            <p class="our-story-text">Hamari Pahchan aims to eliminate social evils like hunger, illiteracy, period poverty and strives to promote causes like menstrual hygiene, elderly well being and many more.
+                </p>
           </div>
-      </div>
-  </section>   
-   
-  
-                 
-  <!--  ************************* Footer Starts Here ************************** -->
-          
-      <footer class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-12">
-                    <h2>About Us</h2>
-                    <p>
-                        Smart Eye is a leading provider of information technology, consulting, and business process services. Our dedicated employees offer strategic insights, technological expertise and industry experience.
-                    </p>
-                    <p>We focus on technologies that promise to reduce costs, streamline processes and speed time-to-market, Backed by our strong quality processes and rich experience managing global... </p>
-                </div>
-                <div class="col-md-4 col-sm-12">
-                    <h2>Useful Links</h2>
-                    <ul class="list-unstyled link-list">
-                        <li><a ui-sref="about" href="#/about">About us</a><i class="fa fa-angle-right"></i></li>
-                        <li><a ui-sref="portfolio" href="#/portfolio">Portfolio</a><i class="fa fa-angle-right"></i></li>
-                        <li><a ui-sref="products" href="#/products">Latest jobs</a><i class="fa fa-angle-right"></i></li>
-                        <li><a ui-sref="gallery" href="#/gallery">Gallery</a><i class="fa fa-angle-right"></i></li>
-                        <li><a ui-sref="contact" href="#/contact">Contact us</a><i class="fa fa-angle-right"></i></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-sm-12 map-img">
-                    <h2>Contact Us</h2>
-                    <address class="md-margin-bottom-40">
-                        BlueDart <br>
-                        Marthandam (K.K District) <br>
-                        Tamil Nadu, IND <br>
-                        Phone: +91 9159669599 <br>
-                        Email: <a href="mailto:info@anybiz.com" class="">info@bluedart.in</a><br>
-                        Web: <a href="smart-eye.html" class="">www.bluedart.in</a>
-                    </address>
-
-                </div>
-            </div>
-            
-            
-            <div class="nav-box row clearfix">
-                <div class="inner col-md-9 clearfix">
-                    <ul class="footer-nav clearfix">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Gallery</a></li>
-                        <li><a href="#">Servies</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-
-                  
-                </div>
-                  <div class="donate-link col-md-3"><a href="donate.html" class="btn btn-primary "><span class="btn-title">Donate Now</span></a></div>
-            </div>
-            
         </div>
-        
+        </div>
+    </section>
 
-    </footer>
-    <div class="copy">
+
+    <!-- ################# Our value Start Here #######################--->
+
+  <section class="section-padding our-values" id="section_3">
             <div class="container">
-                <a href="https://www.smarteyeapps.com/">2015 &copy; All Rights Reserved | Designed and Developed by Smarteyeapps</a>
-                
-                <span>
-                <a><i class="fab fa-github"></i></a>
-                <a><i class="fab fa-google-plus-g"></i></a>
-                <a><i class="fab fa-pinterest-p"></i></a>
-                <a><i class="fab fa-twitter"></i></a>
-                <a><i class="fab fa-facebook-f"></i></a>
-        </span>
+                <div class="row">
+
+                    <!-- <div class="col-lg-12 col-12 text-center mb-4">
+                        <h2>Our Causes</h2>
+                    </div> -->
+
+                    <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block-wrap">
+                            <img src="assets/images/vision-1.png" class="custom-block-image img-fluid" alt="">
+
+                            <div class="custom-block">
+                                <div class="custom-block-body">
+                                    <h5 class="mb-3 value-heading">Our Vision</h5>
+
+                                    <p class="value-text">To help everyone create their own identity, hence, Hamari ‘Pahchan’ (Our Identity).</p>
+
+                                    
+                                </div>
+
+                                <a href="#" class="custom-btn btn">Donate now</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block-wrap">
+                            <img src="assets/images/vision-2.png" class="custom-block-image img-fluid" alt="">
+
+                            <div class="custom-block">
+                                <div class="custom-block-body">
+                                    <h5 class="mb-3 value-heading">Our Mission</h5>
+
+                                    <p class="value-text">We seek a world full of hope, tolerance, and equity, where there is no poverty and everyone lives with a sense of dignity and security.</p>
+
+                                    
+                                </div>
+
+                                <a href="#" class="custom-btn btn">Donate now</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="custom-block-wrap">
+                            <img src="assets/images/vision-3.png" class="custom-block-image img-fluid" alt="">
+
+                            <div class="custom-block">
+                                <div class="custom-block-body">
+                                    <h5 class="mb-3 value-heading">Our Values</h5>
+
+                                    <p class="value-text">We believe in integrity, transparency, equity & justice.
+                                    </p>
+
+                                    
+                                </div>
+
+                                <a href="#" class="custom-btn btn">Donate now</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
             </div>
+        </section>
 
+
+<!-- ########### our team  ########### -->
+
+<section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+      <!-- team 1 -->
+        <div class="row">
+          <div class="col-lg-6 order-1" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/images/team-1.png" height="444" height="550" class="img-fluid founder-image" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 content team-1 team-3" data-aos="fade-right" data-aos-delay="100">
+            <h3 class="team-des">The Founder</h3>
+            <h3 class="team-name">Tarun Mathur</h3>
+            <p class="team-text">
+          Tarun Mathur laid the foundation of Hamari Pahchan in the year 2015, with a vision of creating a society that is built on values of equity and justice for all, he has been working rigorously towards the betterment of society.
+            </p>
+            <p class="team-text">
+            A visionary by heart and mind, Mr. Mathur has been serving the Government of India in the aviation department for more than a decade. He has also represented India in a number of foreign nations as a professional chess player.
+                </p>
+          </div>
         </div>
+
+        <!-- team 2 -->
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2 " data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/images/team-2.png" height="444" height="550" class="img-fluid founder-image" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content team-2 team-4" data-aos="fade-right" data-aos-delay="100">
+            <h3 class="team-des">The President</h3> 
+  
+            <h3 class="team-name">Anjli Mathur</h3>
+            <p class="team-text">
           
+Anjli Mathur is a young enthusiast with pure love for society. She started her chain of kindness by buying medicines for her house help's mother.
+            </p>
+            <p class="team-text">
+            She believes that the greatest joy in life is achieved by ‘Giving’. To provide a platform for the hidden talent of our country, she also runs a production house called Galaxies Production.
+                </p>
+          </div>
+        </div>
+
+        <!-- team 3 -->
+        <div class="row">
+          <div class="col-lg-6 order-1 " data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/images/team-3.png" height="444" height="550" class="img-fluid founder-image" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-1 content team-1 team-3 " data-aos="fade-right" data-aos-delay="100">
+            <h3 class="team-des">The Vice President
+</h3>
+            <h3 class="team-name">Subhash Goel</h3>
+            <p class="team-text">
+            Subhash Goel, the proprietor of the Tushar publications, is the Vice President of our NGO, Hamari Pahchan. Additionally, he is the President of the FEPI.
+            </p>
+            <p class="team-text">
+            To his credit, he has been actively involved and supported in a number of social and charitable clubs in the national capital, Delhi, such as the Rajasthan Club. Recently, he has also established the AHAS Club as General Secretary, with the aim of promoting social causes in Delhi-NCR.
+                </p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+   
+  
+
+
+    <!-- Donation Ad -->
+
     
-</body>
+    <section class="cta-section section-padding section-bg">
+            <div class="container">
+                <div class="row justify-content-center align-items-center">
 
-<script src="assets/js/jquery-3.2.1.min.js"></script>
-<script src="assets/js/popper.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/plugins/scroll-fixed/jquery-scrolltofixed-min.js"></script>
-<script src="assets/plugins/slider/js/owl.carousel.min.js"></script>
-<script src="assets/js/script.js"></script>
+                    <div class="col-lg-5 col-12 mx-auto">
+                        <h2 class="mb-0">Make an impact. <br> Save lives.</h2>
+                    </div>
 
-</html>
+                    <div class="col-lg-5 col-12 donation-btn-1">
+                        <a href="#" class="mr-4 margin-btm">Make a donation</a>
+
+                        <a href="#section_4" class="custom-btn btn smoothscroll margin-btm">Become a volunteer</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+  <?php include "includes/footer.php"; ?>
