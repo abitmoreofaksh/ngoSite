@@ -21,11 +21,7 @@
         object-fit: cover;
     }
 
-    .imc {
-        height: 95px;
-        width: 180px;
-        object-fit: cover;
-    }
+
 
     .marquee {
         --duration: 60s;
