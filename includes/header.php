@@ -90,9 +90,12 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="about_us.php">About Us</a>
                             </li>
-                            <!-- <li class="nav-item">
-                                <a class="nav-link" href="services.html">Services</a>
-                            </li> -->
+                            <li class="nav-item">
+                                <a class="nav-link" href="reports.php">Reports</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="our-projects.php">Projects</a>
+                            </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" href="donate.php">Donate</a>
@@ -104,7 +107,7 @@
                                 <a class="nav-link" href="blog.html">Blog</a>
                             </li> -->
                             <li class="nav-item">
-                                <a class="nav-link" href="contact_us.php">Contact US</a>
+                                <a class="nav-link" href="consult-stu.php">Study Abroad</a>
                             </li>
                         </ul>
                     </div>
